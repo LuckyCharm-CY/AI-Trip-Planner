@@ -10,7 +10,9 @@ import CreateTrip from './create-trip/index.jsx'
 import Header from './components/ui/custom/Header.jsx'
 import { Toaster } from 'sonner'
 import { GoogleOAuthProvider } from '@react-oauth/google';
-import ViewTrip from './view-trip/[tripid]'
+// import ViewTrip from './view-trip/[tripid]'
+
+import ViewTrip from './view-trip/ViewTrip'
 import MyTrips from './my-trips'
 // Paths/ Routes
 
